@@ -7,4 +7,9 @@ I'm Maca from Argentina, and I'm Full Stack at MERN (MongDB, Express, React, Nod
 - 😄 I’m interesting in Web and Mobile projects
 - ⚡ 2022 Goals: Become a Full Stack Development Worker
 
-**Skills**
+**Skills and Experience**
+
+- ⚛ React, Redux
+- 💻 HTML, CSS, JS
+- 🦎 Mongodb, Mongoose
+- 👨‍💻 Nodejs
